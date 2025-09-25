@@ -23,7 +23,7 @@ Each digit image is **28 × 28 pixels** in grayscale.
 In this version, the dataset is provided as a **CSV file**. Each row represents one digit, with pixel intensity values spread across columns.  
 This makes it easier to work with using data frames and numerical operations.  
 
-**Download link:** [MNIST CSV Dataset](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
+**Download link:** [MNIST CSV Dataset]([https://www.kaggle.com/datasets/oddrationale/mnist-in-csv](https://www.kaggle.com/competitions/digit-recognizer/data?select=test.csv))
 
 ---
 
